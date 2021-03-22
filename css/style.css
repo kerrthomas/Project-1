@@ -1,0 +1,13 @@
+body{
+    background-color: #000104;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    border: solid red 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+img{
+    size: 500em;
+}
