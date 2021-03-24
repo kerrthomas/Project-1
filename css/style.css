@@ -1,4 +1,8 @@
 body{
+    background-color: indigo;
+}
+
+.container{
     background-color: #000104;
     font-family: 'Times New Roman', Times, serif;
     color: white;
@@ -6,6 +10,14 @@ body{
     border: solid red 10px;
     border-radius: 5px;
     padding: 20px;
+}
+
+.link{
+    background-color: gold;
+    padding: 10px;
+    font-style: italic;
+    border: inset orange 3px;
+    margin-bottom: 10px;
 }
 
 h1{
