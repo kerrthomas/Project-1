@@ -13,13 +13,13 @@
     <span><a href="contact.html">CONTACT</a></span></div>
     <form>
     <p>First Name:
-    <input type="text" name="firstname"/></p>
-    <p>Last Name:
-    <input type="text" name="lastname"/></p>
-    <p>Email:
-    <input type="email" name="email"/></p>
-    <p>Comments:
-    </p><p><textarea name="comment" rows="5" cols="50"></textarea></form></p>
+    <input type="text" name="firstname"></p>
+    <p>Last Name<span class="requiredinfo">*</span>:
+    <input type="text" name="lastname" required></p>
+    <p>Email<span class="requiredinfo">*</span>:
+    <input type="email" name="email" required></p>
+    <p>Comments<span class="requiredinfo">*</span>:
+    </p><p><textarea name="comment" rows="5" cols="50" required></textarea></p>
     <p><input type="submit"/></p>
     </form>
     </div>
