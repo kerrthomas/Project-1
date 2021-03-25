@@ -25,8 +25,12 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-img{
+#picture{
     size: 500em;
     border: solid cyan 5px;
     border-radius: 3px;
+}
+
+.game{
+    size: 20em;
 }
