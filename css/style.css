@@ -31,13 +31,13 @@ h1{
     border-radius: 3px;
 }
 
-.col-sm{
-    size: 20px;
-    margin-right: 5px;
-}
-
 .requiredinfo{
     color: red;
     size: 3px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-sm{
+    max-width: 50em;
+    height: auto;
 }
