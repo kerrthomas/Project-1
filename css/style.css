@@ -26,7 +26,7 @@ h1{
 }
 
 #picture{
-    size: 500em;
+    size: 5em;
     border: solid cyan 5px;
     border-radius: 3px;
 }
@@ -40,4 +40,11 @@ h1{
 .col-sm{
     max-width: 50em;
     height: auto;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img {
+    align-content: left;
+    margin-bottom: 20px;
 }
